@@ -5,7 +5,7 @@ compatibility_date = "2024-01-01"
 pages_build_output_dir = "dist"
 #
 # D1 数据库配置（必须）
-[[d1_databases]]
+[[bf8d89e5-90e3-4edd-82f8-dac58c52013d]]
 binding = "DB"
 database_name = "bookmark-db"
 database_id = "YOUR_DATABASE_ID_HERE"  # 替换为你的 D1 数据库 ID
